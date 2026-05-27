@@ -1,5 +1,5 @@
 # Hola! Soy Lucas Aguirre 👋
-🎓 Hola, soy Lucas Aguirre, un apasionado de la programación, matemática y puzles de lógica.<br><br>💡  Amo resolver problemas a través del pensamiento creativo. <br><br>🚀 Actualmente desarrollo proyectos con lenguajes como Python, HTML y JavaScript, siempre buscando nuevo conocimento y los mejores métodos.
+🎓 Hola, soy Lucas Aguirre, un apasionado de la programación, la matemática y los puzles de lógica.<br><br>💡  Amo resolver problemas a través del pensamiento creativo. <br><br>🚀 Actualmente desarrollo proyectos con lenguajes como Python, HTML y JavaScript, siempre buscando nuevo conocimento y los mejores métodos.
 
 
 ## 🌐 Redes Sociales:
